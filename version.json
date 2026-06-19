@@ -1,9 +1,8 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.0",
   "downloadUrl": "https://github.com/GP101/DsuGroupware2/releases/latest",
   "allowedVersions": [
     "1.1.0",
-    "1.2.0",
-    "1.2.1"
+    "1.2.0"
   ]
 }
